@@ -6,7 +6,7 @@ const Banner = () => {
     <div className="banner">
       <div className="banner-content">
         <div className="banner-text">
-          <p className="banner-subtitle">달콤떠마다 쌓이는 캐시</p>
+          <p className="banner-subtitle">달콤할때마다 쌓이는 캐시</p>
           <h2 className="banner-title">신한 20+ 뛰어요! →</h2>
         </div>
         <div className="banner-icon">

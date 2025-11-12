@@ -6,7 +6,7 @@ const Header = () => {
     <header className="header">
       <div className="header-left">
         <div className="profile-icon">P</div>
-        <span className="username">이영재님</span>
+        <span className="username">Tech그룹님</span>
       </div>
       <div className="header-right">
         <button className="icon-button">

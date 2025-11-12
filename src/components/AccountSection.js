@@ -14,13 +14,13 @@ const AccountSection = () => {
           <div className="bank-logo">S</div>
           <div className="account-details">
             <p className="account-name">입출금 신한투자증권 증권거래구좌(S-ii...</p>
-            <p className="account-number">신한 110-414-054943</p>
+            <p className="account-number">신한 02-2151-0000</p>
           </div>
           <button className="more-button">⋮</button>
         </div>
         
         <div className="balance">
-          <h2>425,768원</h2>
+          <h2>9,999,999원</h2>
         </div>
         
         <div className="account-actions">
@@ -31,17 +31,17 @@ const AccountSection = () => {
         <div className="linked-accounts">
           <div className="linked-account">
             <div className="account-icon green">🏦</div>
-            <p className="account-title">이영재</p>
+            <p className="account-title">장범진</p>
             <p className="account-amount">1,000,000</p>
           </div>
           <div className="linked-account">
             <div className="account-icon purple">K</div>
-            <p className="account-title">이영재</p>
+            <p className="account-title">윤준호</p>
             <p className="account-amount">300,000</p>
           </div>
           <div className="linked-account">
             <div className="account-icon blue">🏦</div>
-            <p className="account-title">이영재</p>
+            <p className="account-title">이국희</p>
             <p className="account-amount">300,000</p>
           </div>
         </div>
@@ -50,7 +50,7 @@ const AccountSection = () => {
       <div className="utility-buttons">
         <div className="utility-button">
           <div className="utility-icon">🗑️</div>
-          <p>검 반환</p>
+          <p>컵 반환</p>
         </div>
         <div className="utility-button">
           <div className="utility-icon">💡</div>

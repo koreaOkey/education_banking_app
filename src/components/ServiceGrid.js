@@ -3,7 +3,7 @@ import './ServiceGrid.css';
 
 const ServiceGrid = () => {
   const services = [
-    { name: '쌀거요', icon: '🎨', color: '#ff6b35' },
+    { name: '땡겨요', icon: '🎨', color: '#ff6b35' },
     { name: '쏠지갑', icon: '💼', color: '#4ecdc4' },
     { name: '스토리뱅크', icon: '💬', color: '#95a3f6' },
     { name: '쏠야구', icon: '⚾', color: '#fff3b0' },

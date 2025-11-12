@@ -6,6 +6,7 @@ import AccountSection from './components/AccountSection';
 import ServiceGrid from './components/ServiceGrid';
 import QuickMenu from './components/QuickMenu';
 import BottomNav from './components/BottomNav';
+import BenefitsGrid from './components/BenefitsGrid';
 
 function App() {
   const [activeTab, setActiveTab] = useState('home');
@@ -22,13 +23,7 @@ function App() {
           </>
         );
       case 'benefits':
-        return (
-          <div className="empty-page">
-            <div className="empty-content">
-              <p className="empty-title">혜택</p>
-            </div>
-          </div>
-        );
+        return <BenefitsGrid />;
       case 'assets':
       case 'products':
       case 'menu':
