@@ -6,7 +6,7 @@ const allBenefitsData = [
   {
     id: 1,
     title: '같은 카드 맞추기[게임]',
-    url: 'http://localhost:3001',
+    url: 'https://education-for-game.vercel.app/',
     thumbnail: '/images/thumbnails/winter-match-thumbnail.png'
   },
   {
