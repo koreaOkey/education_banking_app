@@ -1,0 +1,85 @@
+.quick-menu {
+  padding: 20px;
+  background-color: #fff;
+}
+
+.quick-menu-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.quick-menu-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.tab-button {
+  padding: 10px 20px;
+  border: 1px solid #e0e0e0;
+  background-color: #fff;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #666;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s;
+}
+
+.tab-button.active {
+  background-color: #e8f5e9;
+  border-color: #4caf50;
+  color: #2e7d32;
+  font-weight: 600;
+}
+
+.tab-button:hover:not(.active) {
+  border-color: #bdbdbd;
+  color: #333;
+}
+
+.mate-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  background-color: #f8f9fa;
+  border-radius: 12px;
+}
+
+.mate-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.mate-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #0066ff 0%, #00ccff 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.mate-text {
+  font-size: 15px;
+  font-weight: 600;
+  color: #333;
+}
+
+.mate-button {
+  background: none;
+  border: none;
+  color: #0066ff;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
