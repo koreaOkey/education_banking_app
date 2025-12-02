@@ -11,39 +11,39 @@ const allBenefitsData = [
   },
   {
     id: 2,
-    title: '여행 포인트 적립',
-    url: 'https://example.com/travel-points',
-    thumbnail: 'https://via.placeholder.com/200/4ECDC4/FFFFFF?text=Travel+Points'
+    title: 'MBTI 진단 테스트',
+    url: 'https://soms-project.vercel.app/',
+    thumbnail: '/images/thumbnails/mbti-test.png'
   },
   {
     id: 3,
-    title: '쇼핑 캐시백 이벤트',
-    url: 'https://example.com/shopping-cashback',
-    thumbnail: 'https://via.placeholder.com/200/45B7D1/FFFFFF?text=Shopping'
+    title: '야바위 게임',
+    url: 'https://yabawe.vercel.app/',
+    thumbnail: '/images/thumbnails/yabawe.png'
   },
   {
     id: 4,
-    title: '주유 할인 혜택',
-    url: 'https://example.com/gas-discount',
-    thumbnail: 'https://via.placeholder.com/200/96CEB4/FFFFFF?text=Gas+Discount'
+    title: '양궁 게임',
+    url: 'https://ukj-project.vercel.app/',
+    thumbnail: '/images/thumbnails/yangung.png'
   },
   {
     id: 5,
-    title: '영화 예매 할인',
-    url: 'https://example.com/movie-discount',
-    thumbnail: 'https://via.placeholder.com/200/FFEAA7/333333?text=Movie'
+    title: '수도쿠 게임',
+    url: 'https://csh-project-bdyr.vercel.app/',
+    thumbnail: '/images/thumbnails/sudoko.png'
   },
   {
     id: 6,
-    title: '음식 배달 쿠폰',
-    url: 'https://example.com/food-delivery',
-    thumbnail: 'https://via.placeholder.com/200/DFE6E9/333333?text=Food'
+    title: '가위바위보 게임',
+    url: 'https://kwproject2.vercel.app/',
+    thumbnail: '/images/thumbnails/gawibawibo.png'
   },
   {
     id: 7,
-    title: '커피 무료 쿠폰',
-    url: 'https://example.com/coffee-coupon',
-    thumbnail: 'https://via.placeholder.com/200/74B9FF/FFFFFF?text=Coffee'
+    title: '날씨별 음악 추천 서비스',
+    url: 'https://ysk-project.vercel.app/',
+    thumbnail: '/images/thumbnails/music-reco.png'
   },
   {
     id: 8,
