@@ -47,9 +47,9 @@ const allBenefitsData = [
   },
   {
     id: 8,
-    title: '편의점 1+1 혜택',
-    url: 'https://example.com/convenience-store',
-    thumbnail: 'https://via.placeholder.com/200/A29BFE/FFFFFF?text=Store'
+    title: '추억의 테트리스',
+    url: 'https://bunney9-tetrisproject.vercel.app/',
+    thumbnail: '/images/thumbnails/tetris.png'
   }
 ];
 
