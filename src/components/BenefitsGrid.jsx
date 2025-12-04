@@ -5,49 +5,49 @@ import './BenefitsGrid.css';
 const allBenefitsData = [
   {
     id: 1,
-    title: '같은 카드 맞추기[게임]',
-    url: 'https://education-for-game.vercel.app/',
-    thumbnail: '/images/thumbnails/winter-match-thumbnail.png'
+    title: '추억의 갤러그 [장범진 본부장님]',
+    url: 'https://chang-project.vercel.app/',
+    thumbnail: '/images/thumbnails/gellage.png'
   },
   {
     id: 2,
-    title: 'MBTI 진단 테스트',
+    title: 'MBTI진단 테스트 [송민섭 부장님]',
     url: 'https://soms-project.vercel.app/',
     thumbnail: '/images/thumbnails/mbti-test.png'
   },
   {
     id: 3,
-    title: '야바위 게임',
+    title: '야바위 게임 [구성본 부장님]',
     url: 'https://yabawe.vercel.app/',
     thumbnail: '/images/thumbnails/yabawe.png'
   },
   {
     id: 4,
-    title: '양궁 게임',
+    title: '양궁 게임 [유광재 부장님]',
     url: 'https://ukj-project.vercel.app/',
     thumbnail: '/images/thumbnails/yangung.png'
   },
   {
     id: 5,
-    title: '수도쿠 게임',
+    title: '수도쿠 게임 [장선형 부장님]',
     url: 'https://csh-project-bdyr.vercel.app/',
     thumbnail: '/images/thumbnails/sudoko.png'
   },
   {
     id: 6,
-    title: '가위바위보 게임',
+    title: '가위바위보 게임 [강경원 부장님]',
     url: 'https://kwproject2.vercel.app/',
     thumbnail: '/images/thumbnails/gawibawibo.png'
   },
   {
     id: 7,
-    title: '날씨별 음악 추천 서비스',
+    title: '날씨별 음악 추천 서비스 [양승권 부장님]',
     url: 'https://ysk-project.vercel.app/',
     thumbnail: '/images/thumbnails/music-reco.png'
   },
   {
     id: 8,
-    title: '추억의 테트리스',
+    title: '추억의 테트리스 [이현구 부장님]',
     url: 'https://bunney9-tetrisproject.vercel.app/',
     thumbnail: '/images/thumbnails/tetris.png'
   }
